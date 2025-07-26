@@ -77,7 +77,7 @@ const content = {
       title: "Software Engineer",
       subtitle: "Building elegant solutions with modern technologies",
       greeting: "Hello, I'm",
-      profilePhoto: "/src/assets/profile-photo.png",
+      profilePhoto: "/profile-photo.png",
       cvUrl: "/path-to-cv.pdf"
     },
     about: {
@@ -110,7 +110,7 @@ const content = {
       {
         title: "E-Commerce Platform",
         description: "A full-featured e-commerce platform built with React, TypeScript, and Stripe integration. Features include product catalog, shopping cart, payment processing, and admin dashboard.",
-        image: "/src/assets/project-ecommerce.jpg",
+        image: "/project-ecommerce.jpg",
         technologies: ["React", "TypeScript", "Node.js", "Stripe", "MongoDB"],
         github: "https://github.com/joanesmith/ecommerce",
         demo: "https://ecommerce-demo.vercel.app"
@@ -118,7 +118,7 @@ const content = {
       {
         title: "Project Management Dashboard",
         description: "A comprehensive project management tool with task tracking, team collaboration, and real-time updates. Built with modern React patterns and state management.",
-        image: "/src/assets/project-dashboard.jpg",
+        image: "/project-dashboard.jpg",
         technologies: ["React", "Redux", "Chart.js", "Socket.io", "Express"],
         github: "https://github.com/joanesmith/pm-dashboard",
         demo: "https://pm-dashboard.vercel.app"
@@ -126,7 +126,7 @@ const content = {
       {
         title: "Mobile Banking App",
         description: "A secure mobile banking application with biometric authentication, transaction history, and financial insights. Optimized for performance and security.",
-        image: "/src/assets/project-mobile.jpg",
+        image: "/project-mobile.jpg",
         technologies: ["React Native", "TypeScript", "Firebase", "Biometrics", "Chart.js"],
         github: "https://github.com/joanesmith/mobile-banking",
         demo: "https://banking-app-demo.vercel.app"
@@ -182,7 +182,7 @@ const content = {
       title: "Ingeniera de Software",
       subtitle: "Construyendo soluciones elegantes con tecnologías modernas",
       greeting: "Hola, soy",
-      profilePhoto: "/src/assets/profile-photo.png",
+      profilePhoto: "/profile-photo.png",
       cvUrl: "/path-to-cv.pdf"
     },
     about: {
@@ -215,7 +215,7 @@ const content = {
       {
         title: "Plataforma de E-Commerce",
         description: "Una plataforma de e-commerce completa construida con React, TypeScript e integración de Stripe. Incluye catálogo de productos, carrito de compras, procesamiento de pagos y panel de administración.",
-        image: "/src/assets/project-ecommerce.jpg",
+        image: "/project-ecommerce.jpg",
         technologies: ["React", "TypeScript", "Node.js", "Stripe", "MongoDB"],
         github: "https://github.com/joanesmith/ecommerce",
         demo: "https://ecommerce-demo.vercel.app"
@@ -223,7 +223,7 @@ const content = {
       {
         title: "Dashboard de Gestión de Proyectos",
         description: "Una herramienta completa de gestión de proyectos con seguimiento de tareas, colaboración en equipo y actualizaciones en tiempo real. Construida con patrones modernos de React y gestión de estado.",
-        image: "/src/assets/project-dashboard.jpg",
+        image: "/project-dashboard.jpg",
         technologies: ["React", "Redux", "Chart.js", "Socket.io", "Express"],
         github: "https://github.com/joanesmith/pm-dashboard",
         demo: "https://pm-dashboard.vercel.app"
@@ -231,7 +231,7 @@ const content = {
       {
         title: "Aplicación de Banca Móvil",
         description: "Una aplicación de banca móvil segura con autenticación biométrica, historial de transacciones e insights financieros. Optimizada para rendimiento y seguridad.",
-        image: "/src/assets/project-mobile.jpg",
+        image: "/project-mobile.jpg",
         technologies: ["React Native", "TypeScript", "Firebase", "Biometrics", "Chart.js"],
         github: "https://github.com/joanesmith/mobile-banking",
         demo: "https://banking-app-demo.vercel.app"
@@ -289,7 +289,7 @@ export const portfolioConfig: PortfolioConfig = {
     title: "Software Engineer",
     subtitle: "Building elegant solutions with modern technologies",
     greeting: "Hello, I'm",
-    profilePhoto: "/src/assets/profile-photo.png",
+    profilePhoto: "/profile-photo.png",
     cvUrl: "/path-to-cv.pdf"
   },
 
@@ -336,7 +336,7 @@ export const portfolioConfig: PortfolioConfig = {
     {
       title: "E-Commerce Platform",
       description: "A full-featured e-commerce platform built with React, TypeScript, and Stripe integration. Features include product catalog, shopping cart, payment processing, and admin dashboard.",
-      image: "/src/assets/project-ecommerce.jpg",
+      image: "/project-ecommerce.jpg",
       technologies: ["React", "TypeScript", "Node.js", "Stripe", "MongoDB"],
       github: "https://github.com/joanesmith/ecommerce",
       demo: "https://ecommerce-demo.vercel.app"
@@ -344,7 +344,7 @@ export const portfolioConfig: PortfolioConfig = {
     {
       title: "Project Management Dashboard",
       description: "A comprehensive project management tool with task tracking, team collaboration, and real-time updates. Built with modern React patterns and state management.",
-      image: "/src/assets/project-dashboard.jpg",
+      image: "/project-dashboard.jpg",
       technologies: ["React", "Redux", "Chart.js", "Socket.io", "Express"],
       github: "https://github.com/joanesmith/pm-dashboard",
       demo: "https://pm-dashboard.vercel.app"
@@ -352,7 +352,7 @@ export const portfolioConfig: PortfolioConfig = {
     {
       title: "Mobile Banking App",
       description: "A secure mobile banking application with biometric authentication, transaction history, and financial insights. Optimized for performance and security.",
-      image: "/src/assets/project-mobile.jpg",
+      image: "/project-mobile.jpg",
       technologies: ["React Native", "TypeScript", "Firebase", "Biometrics", "Chart.js"],
       github: "https://github.com/joanesmith/mobile-banking",
       demo: "https://banking-app-demo.vercel.app"

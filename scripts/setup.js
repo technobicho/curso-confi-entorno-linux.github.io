@@ -55,7 +55,7 @@ const content = {
       title: "${title}",
       subtitle: "${subtitle}",
       greeting: "Hello, I'm",
-      profilePhoto: "/src/assets/profile-photo.png",
+      profilePhoto: "/profile-photo.png",
       cvUrl: "/path-to-your-cv.pdf"
     },
     about: {
@@ -88,7 +88,7 @@ const content = {
       {
         title: "Project Name",
         description: "Describe your project here. What it does, what problems it solves, and what technologies you used.",
-        image: "/src/assets/project-image.jpg",
+        image: "/project-image.jpg",
         technologies: ["React", "TypeScript", "Node.js"],
         github: "https://github.com/${github}/project",
         demo: "https://project-demo.vercel.app"
@@ -145,7 +145,7 @@ const content = {
       title: "${titleEs}",
       subtitle: "${subtitleEs}",
       greeting: "Hola, soy",
-      profilePhoto: "/src/assets/profile-photo.png",
+      profilePhoto: "/profile-photo.png",
       cvUrl: "/path-to-your-cv.pdf"
     },
     about: {
@@ -178,7 +178,7 @@ const content = {
       {
         title: "Nombre del Proyecto",
         description: "Describe tu proyecto aquí. Qué hace, qué problemas resuelve y qué tecnologías usaste.",
-        image: "/src/assets/project-image.jpg",
+        image: "/project-image.jpg",
         technologies: ["React", "TypeScript", "Node.js"],
         github: "https://github.com/${github}/project",
         demo: "https://project-demo.vercel.app"
@@ -237,7 +237,7 @@ export const portfolioConfig: PortfolioConfig = {
     title: "${title}",
     subtitle: "${subtitle}",
     greeting: "Hello, I'm",
-    profilePhoto: "/src/assets/profile-photo.png",
+    profilePhoto: "/profile-photo.png",
     cvUrl: "/path-to-your-cv.pdf" // Optional - update this path
   },
 
@@ -284,7 +284,7 @@ export const portfolioConfig: PortfolioConfig = {
     {
       title: "Project Name",
       description: "Describe your project here. What it does, what problems it solves, and what technologies you used.",
-      image: "/src/assets/project-image.jpg",
+      image: "/project-image.jpg",
       technologies: ["React", "TypeScript", "Node.js"],
       github: "https://github.com/${github}/project",
       demo: "https://project-demo.vercel.app"
@@ -365,8 +365,8 @@ export { content };
   console.log('• All content automatically translates');
   console.log('• Form placeholders and UI text translated');
   console.log('\n📝 Next steps:');
-  console.log('1. Update your profile photo in src/assets/profile-photo.png');
-  console.log('2. Add your project images to src/assets/');
+  console.log('1. Update your profile photo in public/profile-photo.png');
+  console.log('2. Add your project images to public/');
   console.log('3. Update the projects section with your actual projects');
   console.log('4. Customize the skills section with your skills and levels');
   console.log('5. Update the about section highlights with your achievements');
